@@ -13,7 +13,7 @@ RL Baselines3 Zoo is a training framework for Reinforcement Learning (RL), using
 
 It provides scripts for training, evaluating agents, tuning hyperparameters, plotting results and recording videos.
 
-In addition, it includes a collection of tuned hyperparameters for common environments and RL algorithms, and agents trained with those settings.
+In addition, it includes a collection of tuned hyperparameters for common environments and RL algorithms, and agents trained with those settings...
 
 
 We are **looking for contributors** to complete the collection!
